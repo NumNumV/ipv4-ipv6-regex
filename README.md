@@ -23,5 +23,5 @@ _`DISCLAIMER: USE AT YOUR OWN RISK. DO NOT USE THIS REGEX FOR SECURITY APPLICATI
 
 This regex was tested with more than 1,000 IPs with Python and was working.
 However, there are also thousands of IP formats. \
-This is why many of the IP regex patterns found online are BAD and easily breakable ! \
-This one does not except the rule. So if an IP doesn’t match this regex, or a field that appears valid even though it’s not a valid IP, please share it! 
+`This is why many of the IP regex patterns found online are BAD and easily breakable !` \
+This one does not except the rule. So if an IP doesn’t match this regex, or a field that appears valid even though it’s not a valid IP, please correct the regex and share it! 
