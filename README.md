@@ -15,13 +15,13 @@ _`DISCLAIMER: USE AT YOUR OWN RISK. DO NOT USE THIS REGEX FOR SECURITY APPLICATI
 
 ### Testing:
 1. Go to https://regex101.com/
-2. Paste the regex in the regular expression field.
+2. Paste the `regex.txt` content in the regular expression field.
 3. Paste the `ip-samples.txt` content in the text string.
 4. Try with your own IPs.
 
 ### Notes and improvements:
 
-This regex was tested with more than 1,000 IPs and was working.
+This regex was tested with more than 1,000 IPs with Python and was working.
 However, there are also thousands of IP formats. \
 This is why many of the IP regex patterns found online are BAD and easily breakable ! \
 This one does not except the rule. So if an IP doesn’t match this regex, or a field that appears valid even though it’s not a valid IP, please share it! 
