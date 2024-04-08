@@ -1,4 +1,4 @@
-# ip-regex
+# IPv4-IPv6-Regex
 This regex matches IPv4 and IPv6 format (compatible with IPv6 short format)
 
 _`DISCLAIMER: USE AT YOUR OWN RISK. DO NOT USE THIS REGEX FOR SECURITY APPLICATIONS UNTIL YOU HAVE TESTED IT MULTIPLE TIMES. ERRORS CAN OCCUR.`_
