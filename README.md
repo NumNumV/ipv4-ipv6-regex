@@ -3,12 +3,13 @@ This regex matches IPv4 and IPv6 format (compatible with IPv6 short format like 
 
 _`DISCLAIMER: USE AT YOUR OWN RISK. DO NOT USE THIS REGEX FOR SECURITY APPLICATIONS UNTIL YOU HAVE TESTED IT MULTIPLE TIMES. ERRORS CAN OCCUR.`_
 
+  ![demo3](https://github.com/NumNumV/ipv4-ipv6-regex/assets/75941535/7e53ffcb-f7ef-4ec2-9480-35be007df577)
 
 ### How to use ? 
 1.  Copy and paste the content in the `regex.txt` file.
 2.  If you want to check an input, just use it like this (don't forget to sanitize and trim the text input before).
 3.  To search multiple IPs in a text file, remove the "`^`" at the beginning and the "`$`" at the end.
-  
+
 ### Features: 
 - Supports general IPv4 formats shortened shapes.
 - Supports general IPv6 formats shortened shapes.
